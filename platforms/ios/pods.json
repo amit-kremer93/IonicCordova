@@ -1,0 +1,16 @@
+{
+    "declarations": {
+        "use_frameworks!": {
+            "declaration": "use_frameworks!",
+            "count": 1
+        }
+    },
+    "sources": {},
+    "libraries": {
+        "AppsFlyerFramework": {
+            "name": "AppsFlyerFramework",
+            "spec": "6.1.3",
+            "count": 1
+        }
+    }
+}
